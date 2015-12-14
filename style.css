@@ -1,0 +1,100 @@
+* {
+	font-family: 'Lato', sans-serif;
+}
+.brand {
+	margin-top: auto;
+	margin-bottom: auto;
+}
+.intro-page {
+	height: 855px;
+	padding-top: 50px;
+}
+#home {
+	background: url('https://julienismes.files.wordpress.com/2014/09/img_20140920_173148_hdr.jpg') no-repeat center center fixed;
+	background-size: cover;
+}
+.intro-message > h1 {
+	font-size: 100px;
+	color: rgba(255, 255, 255, 1.0);
+	margin-top: 150px;
+	text-shadow: 2px 2px #333;
+}
+.intro-message > hr {
+	width: 1100px;
+}
+.intro-message > h3 {
+	font-size: 300%;
+	color: rgba(255, 255, 255, 1.0);
+	text-shadow: 2px 2px #333;
+}
+.intro-body {
+	height: 2600px;
+}
+#intro {
+	background: url('https://upload.wikimedia.org/wikipedia/commons/5/5c/SinopecHQChaoyang.JPG') no-repeat center center fixed;
+	background-size: cover;
+}
+#intro-link {
+	height : 1000px;
+}
+.paragraph-background {
+	margin-top: 800px;
+	background: rgba(255, 255, 255, 1.0);
+	border-radius: 10px;
+	padding: 20px;
+	margin-bottom: 50px;
+}
+.paragraph-background > h3 {
+	font-size: 300%;
+}
+.paragraph-background > p {
+	font-size: 16px;
+	line-height: 150%;
+}
+/* .left-ref {
+	height: 200px;
+	margin-top: 170px;
+	background: rgba(255, 255, 255, 1.0);
+	border-radius: 10px;
+	padding: 20px;
+	
+} */
+.right-ref {
+	height: 250px;
+	margin-top: 80px;
+	background: rgba(255, 255, 255, 1.0);
+	border-radius: 10px;
+	padding: 20px;
+}
+iframe {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#sad-man {
+	width: 560px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+#historical {
+	background: url('http://www.thechinastory.org/wp-content/uploads/2012/09/Mao-Smile1.jpeg') no-repeat center center fixed;
+	background-size: cover;
+}
+#ref-1 {
+	height: 200px;
+	margin-top: 1200px;
+	background: rgba(255, 255, 255, 1.0);
+	border-radius: 10px;
+	padding: 20px;
+}
+
+#gdp-graph {
+	width: 560px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+#historical-link {
+	height: 1150px;
+}
